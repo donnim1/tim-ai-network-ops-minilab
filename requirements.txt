@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+networkx
+neo4j
+langchain
+chromadb
+openai
+python-dotenv

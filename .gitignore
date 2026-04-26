@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+data/network_metrics.csv
+chroma_db/
+.idea/
+.vscode/
