@@ -1,6 +1,6 @@
-# tim-ai-network-ops-minilab
+# telecommunations-ai-network-ops-minilab
 
-# TIM AI Network Ops MiniLab
+# Telecom AI Network Ops MiniLab
 
 Telecom AI prototype simulating autonomous network operations.
 
